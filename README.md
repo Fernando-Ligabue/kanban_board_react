@@ -1,3 +1,26 @@
+With this Kanban Board, where you can:
+
+- Add tasks to list
+- Update already added tasks
+- Delete unwanted tasks
+- Move tasks between lists
+
+
+During the development process, the main concepts used were:
+
+- Using JSX
+- Rendering Elements
+- React Components
+- Styling components with CSS
+- Hooks
+- State management
+- State and Props
+- Conditional Rendering
+- Events in React
+- Rendering Lists
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
