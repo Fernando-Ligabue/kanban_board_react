@@ -19,6 +19,15 @@ During the development process, the main concepts used were:
 - Events in React
 - Rendering Lists
 
+Initial Board Empty
+![image](https://user-images.githubusercontent.com/76406175/124288232-da358180-db48-11eb-9277-7cf36587108a.png)
+
+Board with tasks included
+![image](https://user-images.githubusercontent.com/76406175/124288465-1b2d9600-db49-11eb-94f2-f202409a05a7.png)
+
+Switching tasks between categories (Pending, To Do, Completed)
+![image](https://user-images.githubusercontent.com/76406175/124288518-2ed8fc80-db49-11eb-96c3-ba15af16bfed.png)
+
 
 
 # Getting Started with Create React App
